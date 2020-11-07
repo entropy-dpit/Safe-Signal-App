@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+Icons by bqlqn and Freepik on Flaticon
+--------------------------------------------------------------------------------
+Flutter plugins:
+- url_launcher by flutter.dev – BSD License
+- path_provider by flutter.dev – BSD License
+- http by flutter.dev – BSD License
+- google_maps_flutter by flutter.dev – BSD License
+- cupertino_icons by flutter.dev – MIT License
+- permission_handler by baseflow.com – MIT License
+- geolocator by baseflow.com – MIT License
+- contact_picker by goderbauer – BSD3 License
+- sms_maintained by geordyvcErasmus – MIT License
+- fluttertoast by karthikponnam.dev – MIT License
+- app_settings by spencerccf – MIT License
+--------------------------------------------------------------------------------
+Complete file:
+https://github.com/entropy-dpit/entropy-legal/blob/master/TeamEntropyLicenses.pdf
