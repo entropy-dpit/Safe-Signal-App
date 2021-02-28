@@ -1,36 +1,21 @@
-/// This is the main entry point for the Safe Signal App
+/// This is the main entry point for the prisma.ai App, formerly known as 
+/// Safe Signal App - we are currently undergoing a rebranding.
 /// 
-/// Team Entropy won *2nd* Place w/ the Safe Signal App in November 2020, during
-/// the DpIT Academy (https://www.facebook.com/descoperatipasiuneainit).
-/// Facebook Page: https://www.facebook.com/Safe-Signal-110487760734282
+/// (C) prisma.ai 2020 or respective owners of libraries
 ///
-/// (C) Team Entropy 2020 or respective owners of libraries
-///
-/// * Public Source Release - Released 11 Nov 2020 * 
+/// * Public Source Release - Released 11 Nov 2020 | Updated Feb 2021 * 
 ///
 /// ----------------------------------------------------------------------------
 ///
-/// Authors:
+/// prisma.ai Team:
+///   David Pescariu - Co-founder & Developer
+///   Raul Popa - Co-founder & Developer & Designer
+///
+/// Safe-Signal OG Team:
 ///   David Pescariu - Most Codebase
 ///   Raul Popa - Home, Map and About/Intro pages
 ///   Ioana Gabor - Backend zone generation
 ///   Dorin Cuibus - Some map work
-/// 
-/// Team:
-///   David Pescariu - Lead Developer
-///   Raul Popa - Developer and Lead Designer
-///   Andra Bolboaca - Business Relations
-///   Ioana Gabor - Developer
-///   Ana Pop - Design and Public Relations
-///   Dorin Cuibus - Developer
-///
-/// ----------------------------------------------------------------------------
-///
-/// Licenses: https://github.com/entropy-dpit/entropy-legal/blob/master/TeamEntropyLicenses.pdf
-///
-/// ----------------------------------------------------------------------------
-///
-/// Special thanks to Academia DPIT and Bosch Romania
 
 import 'dart:convert';
 import 'package:flutter/material.dart';
