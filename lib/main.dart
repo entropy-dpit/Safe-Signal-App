@@ -1,7 +1,7 @@
 /// This is the main entry point for the prisma.ai App, formerly known as 
 /// Safe Signal App - we are currently undergoing a rebranding.
 /// 
-/// (C) prisma.ai 2020 or respective owners of libraries
+/// (C) prisma.ai 2021 or respective owners of libraries
 ///
 /// * Public Source Release - Released 11 Nov 2020 | Updated Feb 2021 * 
 ///
